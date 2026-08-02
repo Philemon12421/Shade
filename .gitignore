@@ -1,0 +1,17 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+# Firebase credentials
+firebase-service-account.json
+**/firebase-service-account.json
+
+# Java build output
+target/
+
+# Maven
+*.class

@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Bloom",
+    "slug": "bloom-frontend",
+    "version": "1.0.0",
+    "sdkVersion": "54.0.0",
+    "orientation": "portrait",
+    "platforms": ["ios", "android", "web"],
+    "assetBundlePatterns": ["**/*"],
+    "jsEngine": "hermes"
+  }
+}
