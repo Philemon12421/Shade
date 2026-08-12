@@ -1,0 +1,6 @@
+{
+  "name": "Shride",
+  "description": "Shride - Secret and password manager with client-side encryption, WebAuthn biometrics, 2FA, white glassmorphism UI, and developer documentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
