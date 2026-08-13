@@ -1,4 +1,4 @@
-# Shade - Zero-Knowledge Encrypted Secrets Manager
+# Shade -  Encrypted Secrets Manager
 
 Shade is a modern, zero-knowledge secrets and password manager built with React 19, TypeScript, Express, and Tailwind CSS. Designed with a clean **white glassmorphism aesthetic**, VaultShield ensures that user credentials never leave the browser unencrypted.
 
