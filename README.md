@@ -4,7 +4,7 @@ Shade is a modern, zero-knowledge secrets and password manager built with React 
 
 ---
 
-## 🌟 Key Features
+## 🌟 Key Features 
 
 - **Zero-Knowledge Client Encryption**: All secret data (passwords, credit cards, bank accounts, secure notes, API keys) is encrypted locally using **AES-256-GCM** with a key derived from the user's Master Password via **PBKDF2 (100,000 iterations)**.
 - **Authentic Social Media & Brand Icons**: Integrated high-fidelity brand SVGs for Google, GitHub, X/Twitter, Facebook, Instagram, LinkedIn, Netflix, Spotify, Apple, Amazon, Discord, Twitch, Microsoft, Slack, Reddit, Notion, PayPal, OpenAI, and more.
